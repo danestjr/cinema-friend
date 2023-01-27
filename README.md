@@ -3,21 +3,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/estradacodes/cinema-buddy">
+  <a href="https://github.com/estradacodes/cinema-friend">
     <img src="md-img/logo.svg" alt="Logo" width="60" height="80">
   </a>
 
-<h2 align="center">Cinema Buddy</h2>
+<h2 align="center">Cinema Friend</h2>
 
   <p align="center">
     Web app that shows movie data to inspire the next film to watch.
     <br />
     <br />
-    <a href="https://cinemabuddy.com">View Demo</a>
+    <a href="https://cinemafriend.com">View Demo</a>
     ·
-    <a href="https://github.com/estradacodes/cinema-buddy/issues">Report Bug</a>
+    <a href="https://github.com/estradacodes/cinema-friend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/estradacodes/cinema-buddy/issues">Request Feature</a>
+    <a href="https://github.com/estradacodes/cinema-friend/issues">Request Feature</a>
   </p>
 </div>
 <br />
@@ -53,9 +53,9 @@ I wanted a simple way to search for movies based on a keyword to explore what's 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [active milestones](https://github.com/estradacodes/cinema-buddy/milestones) for the proposed features planned for this app.
+See the [active milestones](https://github.com/estradacodes/cinema-friend/milestones) for the proposed features planned for this app.
 
-Reference the [open issues](https://github.com/estradacodes/cinema-buddy/issues) for a full list of known issues.
+Reference the [open issues](https://github.com/estradacodes/cinema-friend/issues) for a full list of known issues.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,7 +73,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Daniel Estrada - [@estradacodes](https://twitter.com/estradacodes) - danielestradajr@gmail.com
 
-Project Link: [https://github.com/estradacodes/cinema-buddy](https://github.com/estradacodes/cinema-buddy)
+Project Link: [https://github.com/estradacodes/cinema-friend](https://github.com/estradacodes/cinema-friend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
