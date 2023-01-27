@@ -45,9 +45,7 @@ I wanted a simple way to search for movies based on a keyword to explore what's 
 [![Node][Nodejs.com]][Nodejs-url]
 
 #### Third Party Data
-* OpenWeather API
-* Unsplash API
-
+* TMDB API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
